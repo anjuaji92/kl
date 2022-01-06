@@ -1,4 +1,8 @@
-.cover1
-{
-    background-color: blue;
+*{
+
+    padding: 0%;
+    margin: 0ch;
+}
+body{
+    background-image:url("pictures/t.jpg") ;
 }
