@@ -6,3 +6,20 @@
 body {
     background-size: cover;
 }
+header{
+background-color: green;
+
+}
+
+img
+{
+    margin-top: 15px;
+    margin-left: 10%;  
+}
+.head-tag
+{
+    float:right;
+    margin-top: 55px;
+    margin-right:70px;s
+}
+
