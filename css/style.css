@@ -57,8 +57,9 @@ img
     width:300px;
     text-align: center;
     border:5px solid navy;
-    color:green;
-    size:25px;
+    color:navy;
+    size:30px;
+    
 }
 .log-here
 {
@@ -73,6 +74,6 @@ img
     text-align: center;
      color:white;
      size: 20px;
-     
+
 }
 
