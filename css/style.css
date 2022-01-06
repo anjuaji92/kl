@@ -3,23 +3,52 @@
     padding: 0%;
     margin: 0ch;
 }
-body {
+body
+ {
     background-size: cover;
 }
-header{
-background-color: green;
+header
+{
+background-color: navy;
 
 }
 
 img
 {
-    margin-top: 15px;
+    margin-top: 5px;
     margin-left: 10%;  
 }
 .head-tag
 {
     float:right;
     margin-top: 55px;
-    margin-right:70px;s
-}
+    margin-right:70px;
 
+}
+.head-tag a
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    color:white;
+    border:2px solid white;
+    padding: 15px;
+
+}
+.head-tag a:hover
+{
+    background-color: green;
+    color:white;
+}
+h1
+{
+    font-family:cursive;
+    color:white;
+    margin-top: 15%;
+    margin-left: 30%;
+}
+h2{
+    font-family: cursive;
+    color:white;
+    margin-top: 5%;
+    margin-left: 15%;
+}
