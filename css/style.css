@@ -39,16 +39,40 @@ img
     background-color: green;
     color:white;
 }
-h1
+.intro
 {
+    color:white;
     font-family:cursive;
-    color:white;
-    margin-top: 15%;
-    margin-left: 30%;
+
+    padding: 150px; 
 }
-h2{
-    font-family: cursive;
-    color:white;
-    margin-top: 5%;
-    margin-left: 15%;
+.login
+{
+    border:2px solid white;
+    float: right;
+    margin-top: 100px;
+    margin-right:600px;
+    background-color: white;
+    height: 350px;
+    width:300px;
+    text-align: center;
+    border:5px solid navy;
+    color:green;
+    size:25px;
 }
+.log-here
+{
+    text-align: center;
+    font-size: 25px;
+    color: navy;
+    text-decoration: underline;
+
+}
+.login-btn
+{
+    text-align: center;
+     color:white;
+     size: 20px;
+     
+}
+
