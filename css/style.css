@@ -7,6 +7,7 @@ body
  {
     background-size:cover;
     
+    
 }
 header
 {
@@ -80,13 +81,29 @@ img
 .img-box
 {
     
-border:2px solid white;
-height: 10%;
-width:10%;
+    width:100%;
+    float:left;
+
+}
+.container
+{
+position: relative;
+text-align: center;
+color:white;
+    margin-top: 3%;
+    margin-left: 5%;
+}
+.bottom-left
+{
+    position: absolute;
+    bottom: 8px;
+    left:16px;
 }
 .a
 {
-    max-width: 100%;
-    height: auto;
+    border: 5px solid white;
+    border-style: none;
+    width:120%;
+    height:120%;
 }
 
