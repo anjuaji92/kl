@@ -128,4 +128,42 @@ footer h3
     font-size: 15px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+.trv
+{
+    position: relative;
+    text-align: left;
+    color:white;
+    margin-top: 5%;
+    margin-left: 3%;
+
+}
+.trv img
+{
+float:left;
+height: 30%;
+width: 50%;
+border: 1px solid white;
+margin-left: 1%;
+
+}
+.trv p
+{
+    border:1px solid white;
+    padding: 1px;
+}
+.trv h1{
+    background-color:olive;
+    margin-top: 1%;
+    text-align: center;
+    color:gold;
+
+}
+
+
+
+
+
+
+
+
 
