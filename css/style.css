@@ -45,7 +45,6 @@ img
 {
     color:white;
     font-family:cursive;
-
     padding: 150px; 
 }
 .login
@@ -90,7 +89,7 @@ img
 position: relative;
 text-align: center;
 color:white;
-    margin-top: 3%;
+    margin-top: 5%;
     margin-left: 5%;
 }
 .bottom-left
@@ -105,5 +104,26 @@ color:white;
     border-style: none;
     width:120%;
     height:120%;
+}
+.dist-tag
+{
+    background-color:darkolivegreen;
+    font-size: 12px;
+    font-family:fantasy;
+    text-align: center;
+    color:white;
+}
+footer
+{
+    background-color:black;
+    color:white;
+    height: 2.5em;
+    margin-top: 15%;
+}
+footer h3
+{
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
