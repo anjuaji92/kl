@@ -77,4 +77,16 @@ img
      size: 20px;
 
 }
+.img-box
+{
+    
+border:2px solid white;
+height: 10%;
+width:10%;
+}
+.a
+{
+    max-width: 100%;
+    height: auto;
+}
 
