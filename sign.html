@@ -18,29 +18,29 @@
     </header>
     <!---->
     
-    <form action="#" class="login">
+    <form action="index.html" class="login" onsubmit="return validate()">
         <br><br>
        
         <div class="log-here"><label><b>Welcome,let's get to know you..</b></label></div> <br><br>
         
         <div>
         <label>Firstname</label>&nbsp;
-        <input type="text" placeholder="Firstname" ><br><br>
+        <input type="text" placeholder="Firstname"  required><br><br>
         <label>Lastname</label>&nbsp;
-        <input type="text" placeholder="Lastname">
+        <input type="text" placeholder="Lastname" required>
         <br><br>
         <label>Mob No.</label>
-        <input type="text" placeholder="xxx-xxx-xxxx" id="mob">
+        <input type="text" placeholder="xxx-xxx-xxxx" id="mob" required>
         <br><br>
         <label>Email</label>
-        <input type="email" placeholder="abc@gmail.com" id="email">
+        <input type="email" placeholder="abc@gmail.com" id="email" required>
         <br><br>
         <labe>Password</labe>
-        <input type="password" placeholder="password" id="pwd">
+        <input type="password" placeholder="password" id="pwd"required>
         <br><br>
         </div>
         <div class="login-btn"><br>
-            <input type="submit" value="Sign Up">
+            <button id="submit">Sign UP</button>
         </div>
         <br>
         <br>
@@ -50,7 +50,7 @@
 
     </form>
 
-     
+     <script src="javascript/signup.js"></script>
     </body>
     <footer>
         <h3>Copyright@2022</h3>
